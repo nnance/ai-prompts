@@ -1,0 +1,1 @@
+Reflect back on the expert person and process that you developed, then create a net new set of instructions to this expert who would then run this process. Start with "You are a superlative expert in .... Your main task now is to ..."
